@@ -1,1 +1,1 @@
-# Sales-Analysis-using-MYSQL
+# ${\color{orange} Sales\ Analysis\ using\ MYSQL}$
